@@ -41,11 +41,15 @@ The work combines numerical simulation, signal processing and scientific visuali
 
 ### Phase reconstruction
 
-*(Insert figure here)*
+<p align="center">
+  <img src="figures/workflow.png" width="850">
+</p>
 
 ### Diffraction pattern analysis
 
-*(Insert figure here)*
+<p align="center">
+  <img src="figures/simulation_results.png" width="850">
+</p>
 
 ---
 
